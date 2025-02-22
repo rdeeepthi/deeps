@@ -1,4 +1,4 @@
 # deeps
 this is my first git repository
 <br>
-author deeps
+author deeps(pull request)
